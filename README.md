@@ -1,4 +1,4 @@
-### óla! Eu sou o Pedro Eduardo 🖐️
+### Olá! Eu sou o Pedro Eduardo 🖐️
 
 [![blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
